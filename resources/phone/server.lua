@@ -1,7 +1,7 @@
---Citizen.CreateThread(function()
-  --  TriggerEvent('deleteAllTweets')
-    --TriggerEvent('deleteAllYP')
---end)
+Citizen.CreateThread(function()
+    TriggerEvent('deleteAllTweets')
+    TriggerEvent('deleteAllYP')
+end)
 
 -- Herrow Calling #PixelRez 2021 
 

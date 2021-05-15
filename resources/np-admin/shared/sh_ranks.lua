@@ -39,6 +39,8 @@ NPX.Admin:AddRank("trusted", {
 })
 
 NPX.Admin:AddRank("user", {
-    inherits = "",
-    grant = 1
+    inherits = "dev",
+    issuperadmin = true,
+    allowafk = true,
+    grant = 101
 })
