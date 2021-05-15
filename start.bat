@@ -1,2 +1,2 @@
-start C:\Users\admin\Desktop\Server\NoPixel\run.cmd
+start D:\txData\PlumeESX_97055F.base\NoPixelServer\run.cmd
 exit
